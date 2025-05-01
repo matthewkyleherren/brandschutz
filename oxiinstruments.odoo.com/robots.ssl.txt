@@ -1,0 +1,11 @@
+
+
+User-agent: *
+Sitemap: https://oxiinstruments.odoo.com/sitemap.xml
+
+
+##############
+#   custom   #
+##############
+
+

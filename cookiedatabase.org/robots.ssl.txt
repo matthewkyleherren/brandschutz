@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://cookiedatabase.org/sitemap.xml
+Sitemap: https://cookiedatabase.org/sitemap.html
